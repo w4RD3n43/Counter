@@ -1,0 +1,11 @@
+.btn{
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(53, 53, 206);
+}
+.button{
+  display: flex;
+  justify-content: center;
+}
